@@ -1,0 +1,419 @@
+/*Font Import*/
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap&family=Amiko&display=swap&family=Aclonica&display=swap&family=Acme&display=swap&family=Aldrich&display=swap");
+/*IMKAT Text Colors*/
+.imkat-text-black {
+  color: #000000;
+}
+.imkat-text-white {
+  color: #ffffff;
+}
+.imkat-text-blue {
+  color: #0000ff;
+}
+.imkat-text-sakura {
+  color: #ffbbcd;
+}
+.imkat-text-skyblue {
+  color: #55ddff;
+}
+.imkat-text-turquoise {
+  color: #66ffff;
+}
+.imkat-text-yellow {
+  color: #ffff00;
+}
+.imkat-text-orange {
+  color: #ff9912;
+}
+.imkat-text-violet {
+  color: #6300cc;
+}
+.imkat-text-mauve {
+  color: #995599;
+}
+.imkat-text-red {
+  color: #ff0000;
+}
+.imkat-text-seablue {
+  color: #003eb3;
+}
+.imkat-text-darkblue {
+  color: #191966;
+}
+.imkat-text-prussianblue {
+  color: #003366;
+}
+.imkat-text-vermilionred {
+  color: #ff4400;
+}
+.imkat-text-lawngreen {
+  color: #aaff00;
+}
+.imkat-text-olivegreen {
+  color: #384d00;
+}
+.imkat-text-indigo {
+  color: #00004d;
+}
+.imkat-text-rainbowgreen {
+  color: #00ff00;
+}
+.imkat-text-tomatoketchup {
+  color: #ff5050;
+}
+.imkat-text-mayonnise {
+  color: #ffccb6;
+}
+.imkat-text-rustiron {
+  color: #992e00;
+}
+.imkat-text-fall {
+  color: #ff5e1a;
+}
+.imkat-text-fruits-sweetlime {
+  color: #aaff22;
+}
+.imkat-text-fruits-orange {
+  color: #ffaa33;
+}
+.imkat-text-fruits-banana {
+  color: #ddff11;
+}
+.imkat-text-fruits-mango {
+  color: #ffee22;
+}
+/*IMKAT Background Colors*/
+.imkat-black {
+  background-color: #000000;
+}
+.imkat-white {
+  background-color: #ffffff;
+}
+.imkat-blue {
+  background-color: #0000ff;
+}
+.imkat-sakura {
+  background-color: #ffbbcd;
+}
+.imkat-skyblue {
+  background-color: #55ddff;
+}
+.imkat-turquoise {
+  background-color: #66ffff;
+}
+.imkat-yellow {
+  background-color: #ffff00;
+}
+.imkat-orange {
+  background-color: #ff9912;
+}
+.imkat-violet {
+  background-color: #6300cc;
+}
+.imkat-mauve {
+  background-color: #995599;
+}
+.imkat-red {
+  background-color: #ff0000;
+}
+.imkat-seablue {
+  background-color: #003eb3;
+}
+.imkat-darkblue {
+  background-color: #191966;
+}
+.imkat-prussianblue {
+  background-color: #003366;
+}
+.imkat-vermilionred {
+  background-color: #ff4400;
+}
+.imkat-lawngreen {
+  background-color: #aaff00;
+}
+.imkat-olivegreen {
+  background-color: #384d00;
+}
+.imkat-indigo {
+  background-color: #00004d;
+}
+.imkat-rainbowgreen {
+  background-color: #00ff00;
+}
+.imkat-tomatoketchup {
+  background-color: #ff5050;
+}
+.imkat-mayonnise {
+  background-color: #ffccb6;
+}
+.imkat-rustiron {
+  background-color: #992e00;
+}
+.imkat-fall {
+  background-color: #ff5e1a;
+}
+.imkat-fruits-sweetlime {
+  background-color: #aaff22;
+}
+.imkat-fruits-orange {
+  background-color: #ffaa33;
+}
+.imkat-fruits-banana {
+  background-color: #ddff11;
+}
+.imkat-fruits-mango {
+  background-color: #ffee22;
+}
+/*IMKAT Text Hover Colors*/
+.imkat-text-hover-black:hover {
+  color: #000000;
+}
+.imkat-text-hover-white:hover {
+  color: #ffffff;
+}
+.imkat-text-hover-blue:hover {
+  color: #0000ff;
+}
+.imkat-text-hover-sakura:hover {
+  color: #ffbbcd;
+}
+.imkat-text-hover-skyblue:hover {
+  color: #55ddff;
+}
+.imkat-text-hover-turquoise:hover {
+  color: #66ffff;
+}
+.imkat-text-hover-yellow:hover {
+  color: #ffff00;
+}
+.imkat-text-hover-orange:hover {
+  color: #ff9912;
+}
+.imkat-text-hover-violet:hover {
+  color: #6300cc;
+}
+.imkat-text-hover-mauve:hover {
+  color: #995599;
+}
+.imkat-text-hover-red:hover {
+  color: #ff0000;
+}
+.imkat-text-hover-seablue:hover {
+  color: #003eb3;
+}
+.imkat-text-hover-darkblue:hover {
+  color: #191966;
+}
+.imkat-text-hover-prussianblue:hover {
+  color: #003366;
+}
+.imkat-text-hover-vermilionred:hover {
+  color: #ff4400;
+}
+.imkat-text-hover-lawngreen:hover {
+  color: #aaff00;
+}
+.imkat-text-hover-olivegreen:hover {
+  color: #384d00;
+}
+.imkat-text-hover-indigo:hover {
+  color: #00004d;
+}
+.imkat-text-hover-rainbowgreen:hover {
+  color: #00ff00;
+}
+.imkat-text-hover-tomatoketchup:hover {
+  color: #ff5050;
+}
+.imkat-text-hover-mayonnise:hover {
+  color: #ffccb6;
+}
+.imkat-text-hover-rustiron:hover {
+  color: #992e00;
+}
+.imkat-text-hover-fall:hover {
+  color: #ff5e1a;
+}
+.imkat-text-hover-fruits-sweetlime:hover {
+  color: #aaff22;
+}
+.imkat-text-hover-fruits-orange:hover {
+  color: #ffaa33;
+}
+.imkat-text-hover-fruits-banana:hover {
+  color: #ddff11;
+}
+.imkat-text-hover-fruits-mango:hover {
+  color: #ffee22;
+}
+/*IMKAT Background Hover Colors*/
+.imkat-hover-black:hover {
+  background-color: #000000;
+}
+.imkat-hover-white:hover {
+  background-color: #ffffff;
+}
+.imkat-hover-blue:hover {
+  background-color: #0000ff;
+}
+.imkat-hover-sakura:hover {
+  background-color: #ffbbcd;
+}
+.imkat-hover-skyblue:hover {
+  background-color: #55ddff;
+}
+.imkat-hover-turquoise:hover {
+  background-color: #66ffff;
+}
+.imkat-hover-yellow:hover {
+  background-color: #ffff00;
+}
+.imkat-hover-orange:hover {
+  background-color: #ff9912;
+}
+.imkat-hover-violet:hover {
+  background-color: #6300cc;
+}
+.imkat-hover-mauve:hover {
+  background-color: #995599;
+}
+.imkat-hover-red:hover {
+  background-color: #ff0000;
+}
+.imkat-hover-seablue:hover {
+  background-color: #003eb3;
+}
+.imkat-hover-darkblue:hover {
+  background-color: #191966;
+}
+.imkat-hover-prussianblue:hover {
+  background-color: #003366;
+}
+.imkat-hover-vermilionred:hover {
+  background-color: #ff4400;
+}
+.imkat-hover-lawngreen:hover {
+  background-color: #aaff00;
+}
+.imkat-hover-olivegreen:hover {
+  background-color: #384d00;
+}
+.imkat-hover-indigo:hover {
+  background-color: #00004d;
+}
+.imkat-hover-rainbowgreen:hover {
+  background-color: #00ff00;
+}
+.imkat-hover-tomatoketchup:hover {
+  background-color: #ff5050;
+}
+.imkat-hover-mayonnise:hover {
+  background-color: #ffccb6;
+}
+.imkat-hover-rustiron:hover {
+  background-color: #992e00;
+}
+.imkat-hover-fall:hover {
+  background-color: #ff5e1a;
+}
+.imkat-hover-fruits-sweetlime:hover {
+  background-color: #aaff22;
+}
+.imkat-hover-fruits-orange:hover {
+  background-color: #ffaa33;
+}
+.imkat-hover-fruits-banana:hover {
+  background-color: #ddff11;
+}
+.imkat-hover-fruits-mango:hover {
+  background-color: #ffee22;
+}
+/*IMKAT Fonts*/
+.imkat-source-code-pro {
+  font-family: "Source Code Pro", monospace;
+}
+.imkat-consolas {
+  font-family: consolas;
+}
+.imkat-calibri {
+  font-family: calibri;
+}
+.imkat-serif-georgia {
+  font-family: Georgia, serif;
+}
+.imkat-serif-palatino-bookantiqua {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.imkat-serif-timesnewroman {
+  font-family: "Times New Roman", Times, serif;
+}
+.imkat-sans-arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.imkat-sans-arialblack {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+.imkat-sans-comicsans {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.imkat-sans-impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
+.imkat-sans-lucidaunicode {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.imkat-sans-aclonica {
+	font-family: "Aclonica";
+}
+.imkat-sans-acme {
+	font-family: "Acme";
+}
+.imkat-mono-lucidaconsole {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+.imkat-mono-couriernew {
+  font-family: "Courier New", Courier, monospace;
+}
+.imkat-mono-amiko {
+  font-family: "Amiko";
+}
+.imkat-mono-aldrich {
+	font-family: "Aldrich";
+}
+.imkat-mono-andale {
+	font-family: "Andale Mono", monospace;
+}
+.imkat-mono-freemono {
+	font-family: FreeMono, monospace;
+}
+.imkat-mono-dejavu {
+	font-family: "Dejavu Sans Mono", monospace;
+}
+/*IMKAT Fonts Sizes*/
+.imkat-microscopic {
+	font-size: 3px;
+}
+.imkat-vsmall {
+	font-size: 7px;
+}
+.imkat-small {
+	font-size: 15px;
+}
+.imkat-medium {
+	font-size: 20px;
+}
+.imkat-large {
+	font-size: 27.5px;
+}
+.imkat-vlarge {
+	font-size: 33px;
+}
+.imkat-super {
+	font-size: 46px;
+}
+.imkat-ularge {
+	font-size: 53.5px;
+}
+.imkat-extreme {
+	font-size: 67px;
+}
