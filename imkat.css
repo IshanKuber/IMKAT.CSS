@@ -417,3 +417,25 @@
 .imkat-extreme {
 	font-size: 67px;
 }
+/*IMKAT Tags*/
+body {
+  font-family: calibri;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 55px;
+}
+h3 {
+  font-size: 40px;
+}
+h4 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 25px;
+}
+h6 {
+  font-size: 20px;
+}
