@@ -363,10 +363,10 @@
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .imkat-sans-aclonica {
-	font-family: "Aclonica";
+  font-family: "Aclonica";
 }
 .imkat-sans-acme {
-	font-family: "Acme";
+  font-family: "Acme";
 }
 .imkat-mono-lucidaconsole {
   font-family: "Lucida Console", Monaco, monospace;
@@ -378,44 +378,44 @@
   font-family: "Amiko";
 }
 .imkat-mono-aldrich {
-	font-family: "Aldrich";
+  font-family: "Aldrich";
 }
 .imkat-mono-andale {
-	font-family: "Andale Mono", monospace;
+  font-family: "Andale Mono", monospace;
 }
 .imkat-mono-freemono {
-	font-family: FreeMono, monospace;
+  font-family: FreeMono, monospace;
 }
 .imkat-mono-dejavu {
-	font-family: "Dejavu Sans Mono", monospace;
+  font-family: "Dejavu Sans Mono", monospace;
 }
 /*IMKAT Fonts Sizes*/
 .imkat-microscopic {
-	font-size: 3px;
+  font-size: 3px;
 }
 .imkat-vsmall {
-	font-size: 7px;
+  font-size: 7px;
 }
 .imkat-small {
-	font-size: 15px;
+  font-size: 15px;
 }
 .imkat-medium {
-	font-size: 20px;
+  font-size: 20px;
 }
 .imkat-large {
-	font-size: 27.5px;
+  font-size: 27.5px;
 }
 .imkat-vlarge {
-	font-size: 33px;
+  font-size: 33px;
 }
 .imkat-super {
-	font-size: 46px;
+  font-size: 46px;
 }
 .imkat-ularge {
-	font-size: 53.5px;
+  font-size: 53.5px;
 }
 .imkat-extreme {
-	font-size: 67px;
+  font-size: 67px;
 }
 /*IMKAT Tags*/
 body {
@@ -438,4 +438,17 @@ h5 {
 }
 h6 {
   font-size: 20px;
+}
+/*Newly invented IMKAT Tags*/
+imkat-code {
+  font-family: 'Source Code Pro', monospace;
+}
+imkat-main {
+  color: #0000ff;
+}
+imkat-comment {
+  color: #55bb00;
+}
+imkat-string, imkat-num {
+  color: #000000;
 }
