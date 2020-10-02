@@ -768,6 +768,10 @@ h6 {
   font-size: 20px;
 }
 /*Newly invented IMKAT Tags*/
+imkat-heading {
+	font-size: 70px;
+	text-align: center;
+}
 imkat-code {
   font-family: 'Source Code Pro', monospace;
 }
