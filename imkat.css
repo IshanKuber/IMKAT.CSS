@@ -878,33 +878,61 @@
 .imkat-mono-dejavu {
   font-family: "Dejavu Sans Mono", monospace;
 }
-/*IMKAT Fonts Sizes*/
-.imkat-microscopic {
-  font-size: 3px;
+/*IMKAT Font Sizes(Responsive)*/
+.imkat-fonts-size-r-microscopic, .imkat-hover-fonts-size-r-microscopic:hover {
+	font-size: 0.5vw;
 }
-.imkat-vsmall {
-  font-size: 7px;
+.imkat-fonts-size-r-vsmall, .imkat-hover-fonts-size-r-vsmall:hover {
+	font-size: 1vw;
 }
-.imkat-small {
-  font-size: 15px;
+.imkat-fonts-size-r-small, .imkat-hover-fonts-size-r-small:hover {
+	font-size: 2vw;
 }
-.imkat-medium {
-  font-size: 20px;
+.imkat-fonts-size-r-medium, .imkat-hover-fonts-size-r-medium:hover {
+	font-size: 3vw;
 }
-.imkat-large {
-  font-size: 27.5px;
+.imkat-fonts-size-r-large, .imkat-hover-fonts-size-r-large:hover {
+	font-size: 4vw;
 }
-.imkat-vlarge {
-  font-size: 33px;
+.imkat-fonts-size-r-vlarge, .imkat-hover-fonts-size-r-vlarge:hover {
+	font-size: 5vw;
 }
-.imkat-super {
-  font-size: 46px;
+.imkat-fonts-size-r-super, .imkat-hover-fonts-size-r-super:hover {
+	font-size: 7vw;
 }
-.imkat-ularge {
-  font-size: 53.5px;
+.imkat-fonts-size-r-ularge, .imkat-hover-fonts-size-r-ularge:hover {
+	font-size: 8vw;
 }
-.imkat-extreme {
-  font-size: 67px;
+.imkat-fonts-size-r-extreme, .imkat-hover-fonts-size-r-extreme:hover {
+	font-size: 10vw;
+}
+/*IMKAT Font Sizes(Nonresponsive)*/
+.imkat-fonts-size-n-microscopic, .imkat-hover-fonts-size-n-microscopic:hover {
+	font-size: 3px;
+}
+.imkat-fonts-size-n-vsmall, .imkat-hover-fonts-size-n-vsmall:hover {
+	font-size: 7px;
+}
+.imkat-fonts-size-n-small, .imkat-hover-fonts-size-n-small:hover {
+	font-size: 15px;
+}
+.imkat-fonts-size-n-medium, .imkat-hover-fonts-size-n-medium:hover {
+	font-size: 20px;
+}
+.imkat-fonts-size-n-large, .imkat-hover-fonts-size-n-large:hover {
+	font-size: 27.5px;
+}
+.imkat-fonts-size-n-vlarge, .imkat-hover-fonts-size-n-vlarge:hover {
+	font-size: 33px;
+}
+.imkat-fonts-size-n-super, .imkat-hover-fonts-size-n-super:hover {
+	font-size: 46px;
+}
+.imkat-fonts-size-n-ularge, .imkat-hover-fonts-size-n-ularge:hover {
+	font-size: 53.5px;
+}
+.imkat-fonts-size-n-extreme, .imkat-hover-fonts-size-n-extreme:hover {
+	font-size: 67px;
 }
 /*IMKAT Tags*/
 body {
