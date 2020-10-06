@@ -164,6 +164,167 @@
 .imkat-fruits-mango {
   background-color: #ffee22;
 }
+/*IMKAT Border Styles*/
+.imkat-b-small, .imkat-hover-b-small:hover {
+  border: 1px solid #ccc;
+}
+.imkat-b-medium, .imkat-hover-b-medium:hover {
+  border: 2.5px solid #ccc;
+}
+.imkat-b-slightthick, .imkat-hover-b-slightthick:hover {
+  border: 3.5px solid #ccc;
+}
+.imkat-b-thick, .imkat-hover-b-thick:hover {
+  border: 5px solid #ccc;
+}
+.imkat-b-vthick, .imkat-hover-b-vthick:hover {
+  border: 7px solid #ccc;
+}
+.imkat-b-dotted, .imkat-hover-b-dotted:hover {
+  border-style: dotted!important;
+}
+.imkat-b-dashed, .imkat-hover-b-dashed:hover {
+  border-style: dashed!important;
+}
+.imkat-b-double, .imkat-hover-b-double:hover {
+  border-style: double!important;
+}
+.imkat-b-groove, .imkat-hover-b-groove:hover {
+  border-style: groove!important;
+}
+.imkat-b-ridge, .imkat-hover-b-ridge:hover {
+  border-style: ridge!important;
+}
+.imkat-b-inset, .imkat-hover-b-inset:hover {
+  border-style: inset!important;
+}
+.imkat-b-outset, .imkat-hover-b-outset:hover {
+  border-style: outset!important;
+}
+.imkat-b-left-dotted, .imkat-hover-b-left-dotted:hover {
+  border-left-style: dotted!important;
+}
+.imkat-b-left-dashed, .imkat-hover-b-left-dashed:hover {
+  border-left-style: dashed!important;
+}
+.imkat-b-left-double, .imkat-hover-b-left-double:hover {
+  border-left-style: double!important;
+}
+.imkat-b-left-groove, .imkat-hover-b-left-groove:hover {
+  border-left-style: groove!important;
+}
+.imkat-b-left-ridge, .imkat-hover-b-left-ridge:hover {
+  border-left-style: ridge!important;
+}
+.imkat-b-left-inset, .imkat-hover-b-left-inset:hover {
+  border-left-style: inset!important;
+}
+.imkat-b-left-outset, .imkat-hover-b-left-outset:hover {
+  border-left-style: outset!important;
+}
+.imkat-b-right-dotted, .imkat-hover-b-right-dotted:hover {
+  border-right-style: dotted!important;
+}
+.imkat-b-right-dashed, .imkat-hover-b-right-dashed:hover {
+  border-right-style: dashed!important;
+}
+.imkat-b-right-double, .imkat-hover-b-right-double:hover {
+  border-right-style: double!important;
+}
+.imkat-b-right-groove, .imkat-hover-b-right-groove:hover {
+  border-right-style: groove!important;
+}
+.imkat-b-right-ridge, .imkat-hover-b-right-ridge:hover {
+  border-right-style: ridge!important;
+}
+.imkat-b-right-inset, .imkat-hover-b-right-inset:hover {
+  border-right-style: inset!important;
+}
+.imkat-b-right-outset, .imkat-hover-b-right-outset:hover {
+  border-right-style: outset!important;
+}
+.imkat-b-top-dotted, .imkat-hover-b-top-dotted:hover {
+  border-top-style: dotted!important;
+}
+.imkat-b-top-dashed, .imkat-hover-b-top-dashed:hover {
+  border-top-style: dashed!important;
+}
+.imkat-b-top-double, .imkat-hover-b-top-double:hover {
+  border-top-style: double!important;
+}
+.imkat-b-top-groove, .imkat-hover-b-top-groove:hover {
+  border-top-style: groove!important;
+}
+.imkat-b-top-ridge, .imkat-hover-b-top-ridge:hover {
+  border-top-style: ridge!important;
+}
+.imkat-b-top-inset, .imkat-hover-b-top-inset:hover {
+  border-top-style: inset!important;
+}
+.imkat-b-top-outset, .imkat-hover-b-top-outset:hover {
+  border-top-style: outset!important;
+}
+.imkat-b-bottom-dotted, .imkat-hover-b-bottom-dotted:hover {
+  border-bottom-style: dotted!important;
+}
+.imkat-b-bottom-dashed, .imkat-hover-b-bottom-dashed:hover {
+  border-bottom-style: dashed!important;
+}
+.imkat-b-bottom-double, .imkat-hover-b-bottom-double:hover {
+  border-bottom-style: double!important;
+}
+.imkat-b-bottom-groove, .imkat-hover-b-bottom-groove:hover {
+  border-bottom-style: groove!important;
+}
+.imkat-b-bottom-ridge, .imkat-hover-b-bottom-ridge:hover {
+  border-bottom-style: ridge!important;
+}
+.imkat-b-bottom-inset, .imkat-hover-b-bottom-inset:hover {
+  border-bottom-style: inset!important;
+}
+.imkat-b-bottom-outset, .imkat-hover-b-bottom-outset:hover {
+  border-bottom-style: outset!important;
+}
+.imkat-b-normal, .imkat-hover-b-normal:hover {
+  border-radius:0px!important;
+}
+.imkat-b-slightround, .imkat-hover-b-slightround:hover {
+  border-radius: 3px!important;
+}
+.imkat-b-lessround, .imkat-hover-b-lessround:hover {
+  border-radius: 5px!important;
+}
+.imkat-b-moderateround, .imkat-hover-b-moderateround:hover {
+  border-radius: 8px!important;
+}
+.imkat-b-veryround, .imkat-hover-b-veryround:hover {
+  border-radius: 10px!important;
+}
+.imkat-b-highlyround, .imkat-hover-b-highlyround:hover {
+  border-radius: 20px!important;
+}
+/*IMKAT Outline Styles*/
+.imkat-o-dotted, .imkat-hover-o-dotted:hover {
+  outline-style: dotted!important;
+}
+.imkat-o-dashed, .imkat-hover-o-dashed:hover {
+  outline-style: dashed!important;
+}
+.imkat-o-double, .imkat-hover-o-double:hover {
+  outline-style: double!important;
+}
+.imkat-o-groove, .imkat-hover-o-groove:hover {
+  outline-style: groove!important;
+}
+.imkat-o-ridge, .imkat-hover-o-ridge:hover {
+  outline-style: ridge!important;
+}
+.imkat-o-inset, .imkat-hover-o-inset:hover {
+  outline-style: inset!important;
+}
+.imkat-o-outset, .imkat-hover-o-outset:hover {
+  outline-style: outset!important;
+}
 /*IMKAT Text Hover Colors*/
 .imkat-text-hover-black:hover {
   color: #000000;
@@ -820,4 +981,10 @@ imkat-string, imkat-num {
 .imkat-extreme-sqr {
   height: 67px;
   width: 67px;
+}
+/*IMKAT Presets(New)*/
+.imkat-typewriter-heading{
+  font-size:5vw;
+  font-family: "Andale Mono", monospace; 
+  text-align: center;
 }
